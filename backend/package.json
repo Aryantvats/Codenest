@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Roushan",
+  "author": "Aryan",
   "type": "module",
   "license": "ISC",
   "description": "",

@@ -61,7 +61,7 @@ function Navigations() {
       >
         <div className="flex h-14 gap-4 items-center border-b border-gray-800 px-4">
           <img src={nscc} alt="nscc" className="w-6 h-6" />
-          <span className="font-semibold text-white">Progress Tracker</span>
+          <span className="font-semibold text-white">Codenest</span>
         </div>
 
         <div className="flex flex-col items-center p-6 text-center">

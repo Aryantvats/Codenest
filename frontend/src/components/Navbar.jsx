@@ -16,7 +16,7 @@ const Navbar = () => {
                 {/* Logo and brand name */}
                 <div className="flex items-center text-lg font-bold text-white">
                     <img src={logo} alt="Logo" className="mr-2 h-8" />
-                    <span>Progress Tracker</span>
+                    <span>Codenest</span>
                 </div>
                 
                 {/* Mobile menu button */}

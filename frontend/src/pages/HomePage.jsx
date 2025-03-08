@@ -15,7 +15,7 @@ const HomePage = () => {
 
             <div className="relative container mx-auto px-4 text-center">
               <h1 className="text-5xl md:text-6xl font-medium mb-4 text-[#155E95]">
-                Welcome to Progress Tracker
+                Welcome to Codenest
               </h1>
 
               <p className="text-lg md:text-xl text-white/90 mb-8 max-w-2xl mx-auto">
