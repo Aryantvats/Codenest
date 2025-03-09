@@ -33,7 +33,7 @@ CodeNest is a platform that aggregates user profiles from popular coding platfor
    ```
 
 3. Set up environment variables:
-   - Create a `.env` file in the `backend` directory and configure your MongoDB URI, JWT secret, and Google Maps API key.
+   - Create a `.env` file in the `backend` directory and configure your MongoDB URI,PORT.
    - Example:
      ```env
      MONGO_URI=your_mongodb_connection_string
